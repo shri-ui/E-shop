@@ -11,7 +11,7 @@ const AboutPage = () => {
           Welcome to our E-Shop, where we are passionate about bringing you the best in fashions &Electrical appliances. 
           Since our founding in 2024, we've been dedicated to offering high-quality products and exceptional customer service.Our mission is to make your shopping experience seamless and enjoyable, with a focus on sustainability and innovation. 
           Whether you're a longtime customer or new to our brand, we are excited to share our journey with you and invite you to explore our range of unique products. 
-          Thank you for choosing E-Shop—we're here to serve you!
+          Thank you for choosing E-Shop—we're here to serve you!❤
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
