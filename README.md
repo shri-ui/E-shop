@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://reactjs-ecommerce-app.vercel.app/">
+  <a href="https://e-shop-o3xrysphi-shri-uis-projects.vercel.app/">
     <img alt="E-shop" src="https://indyme.com/wp-content/uploads/2020/11/shopping-cart-icon.png" width="60" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 ## 🚀 Quick start
 
-link : https://reactjs-ecommerce-app.vercel.app/
+link : e-shop-o3xrysphi-shri-uis-projects.vercel.app/
 
 ## Run Locally
 
