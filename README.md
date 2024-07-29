@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://e-shop-o3xrysphi-shri-uis-projects.vercel.app/">
+  <a href="https://e-shop-git-main-shri-uis-projects.vercel.app/">
     <img alt="E-shop" src="https://indyme.com/wp-content/uploads/2020/11/shopping-cart-icon.png" width="60" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 ## 🚀 Quick start
 
-link : e-shop-o3xrysphi-shri-uis-projects.vercel.app/
+link : e-shop-git-main-shri-uis-projects.vercel.app/
 
 ## Run Locally
 
