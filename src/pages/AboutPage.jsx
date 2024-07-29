@@ -8,19 +8,10 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
-          earum unde eligendi autem praesentium, doloremque distinctio nesciunt
-          porro tempore quis eaque labore voluptatibus ea necessitatibus
-          exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
-          tempore vel tenetur soluta dolore sunt maxime aliquam corporis est,
-          quo saepe dolorem optio minus sint nemo totam dolorum! Reprehenderit
-          delectus expedita a alias nam recusandae illo debitis repellat libero,
-          quasi explicabo molestiae saepe, dolorem tempore itaque eveniet quam
-          dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
+          Welcome to our E-Shop, where we are passionate about bringing you the best in fashions &Electrical appliances. 
+          Since our founding in 2024, we've been dedicated to offering high-quality products and exceptional customer service.Our mission is to make your shopping experience seamless and enjoyable, with a focus on sustainability and innovation. 
+          Whether you're a longtime customer or new to our brand, we are excited to share our journey with you and invite you to explore our range of unique products. 
+          Thank you for choosing E-Shop—we're here to serve you!
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
