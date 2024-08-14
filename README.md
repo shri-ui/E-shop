@@ -14,7 +14,7 @@
 
 ## 🚀 Quick start
 
-link : e-shop-git-main-shri-uis-projects.vercel.app/
+link : http://e-shop-git-main-shri-uis-projects.vercel.app/
 
 ## Run Locally
 
